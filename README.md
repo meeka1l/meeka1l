@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/can0pu5" target="blank"><img src="https://img.shields.io/twitter/follow/can0pu5?logo=twitter&style=for-the-badge" alt="can0pu5" /></a> </p>
 
-- 🔭 I’m currently working on **A Comic/Manga Website**
+- 🔭 I’m currently working on **A Comic Website and A First-Person Exploration Game**
 
-- 🌱 I’m currently learning **Laravel and PHP**
+- 🌱 I’m currently learning **PHP and Godot**
 
 - 📫 How to reach me **meekailhanis2006@gmail.com**
 
