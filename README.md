@@ -1,5 +1,5 @@
-<h1 align="center">YO! I'm Meekail</h1>
-<h3 align="center">An aspiring game developer eager to bring imaginative worlds to life.</h3>
+<h1 align="center">HeY! I'm Meekail</h1>
+<h3 align="center">Game Developer and Comic Creator.</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTMzcXZzZHliYmUwMGo3ajZiNjk0eXViMm82ZzVkMDBvZGZ4YmRueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meeka1l&label=Profile%20views&color=0e75b6&style=flat" alt="meeka1l" /> </p>
 
@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working on **A Comic Website and A First-Person Exploration Game**
 
-- 🌱 I’m currently learning **PHP and Godot**
+- 🌱 I’m currently learning **Godot and Blender**
 
-- 📫 How to reach me **meekailhanis2006@gmail.com**
-
-- ⚡ Fun fact **I'm also an aspiring comic creator!**
+- 📫 How to reach me **meekailhanis2006@gmail.com or meekailwebtoon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
