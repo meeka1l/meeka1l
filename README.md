@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Godot and Blender**
 
-- 📫 How to reach me **meekailhanis2006@gmail.com or meekailwebtoon@gmail.com**
+- 📫 How to reach me **meekail.delighted692@aleeas.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
